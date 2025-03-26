@@ -13,4 +13,4 @@ Nous allons implémenter un système simple où une couche métier dépend d'une
   
   **Spring (XML)** -> Injection via un fichier XML de configuration
   
-  **Spring (Annotations)** -> Injection automatisée avec @Autowired et @Component
+  **Spring (Annotations)** -> Injection automatisée avec *@Autowired* et *@Component*
