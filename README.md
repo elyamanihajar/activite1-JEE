@@ -8,6 +8,9 @@ Nous allons implémenter un système simple où une couche métier dépend d'une
 ## ✅ Résumé des Méthodes d'Injection
    
   **Instanciation statique** ->	Injection manuelle des dépendances via new
+  
   **Instanciation dynamique** -> Injection basée sur la réflexion et un fichier de configuration
+  
   **Spring (XML)** -> Injection via un fichier XML de configuration
+  
   **Spring (Annotations)** -> Injection automatisée avec @Autowired et @Component
